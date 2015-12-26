@@ -5,3 +5,7 @@
 .box2 {
   box: 'horizontal wrap bottom';
 }
+
+.box1 > div {
+  box-item: 'right flex-2';
+}
