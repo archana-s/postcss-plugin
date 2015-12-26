@@ -1,0 +1,7 @@
+.box1 {
+  box: 'vertical reverse wrap-reverse';
+}
+
+.box2 {
+  box: 'horizontal wrap';
+}
