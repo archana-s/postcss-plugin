@@ -1,5 +1,5 @@
-.box1 {
-  box: 'vertical reverse wrap-reverse';
+.horizontal-box {
+  box: 'horizontal';
 }
 
 .box2 {
